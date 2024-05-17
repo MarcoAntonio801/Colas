@@ -1,0 +1,14 @@
+C:\Proyecto\Colas\Colas\bin\Debug\Colas.exe.config
+C:\Proyecto\Colas\Colas\bin\Debug\Colas.exe
+C:\Proyecto\Colas\Colas\bin\Debug\Colas.pdb
+C:\Proyecto\Colas\Colas\obj\Debug\Colas.csproj.AssemblyReference.cache
+C:\Proyecto\Colas\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+C:\Proyecto\Colas\Colas\obj\Debug\Colas.exe
+C:\Proyecto\Colas\Colas\obj\Debug\Colas.pdb
+D:\ENSEC----------\Estructura de datos\Colas\Colas\bin\Debug\Colas.exe.config
+D:\ENSEC----------\Estructura de datos\Colas\Colas\bin\Debug\Colas.exe
+D:\ENSEC----------\Estructura de datos\Colas\Colas\bin\Debug\Colas.pdb
+D:\ENSEC----------\Estructura de datos\Colas\Colas\obj\Debug\Colas.csproj.AssemblyReference.cache
+D:\ENSEC----------\Estructura de datos\Colas\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+D:\ENSEC----------\Estructura de datos\Colas\Colas\obj\Debug\Colas.exe
+D:\ENSEC----------\Estructura de datos\Colas\Colas\obj\Debug\Colas.pdb
